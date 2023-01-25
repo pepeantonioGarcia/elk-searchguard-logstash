@@ -1,0 +1,4 @@
+.env.elastic
+.env.kibana
+.env.logstash
+
